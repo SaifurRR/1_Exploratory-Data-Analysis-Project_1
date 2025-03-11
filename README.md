@@ -14,15 +14,15 @@
 
 ### 2. Statistical distribution
 
-average_calories: 106.88311688311688
+_average_calories_: 106.88311688311688
 
-median_calories: 110.0
+_median_calories_: 110.0
 
-nth_percentiles: 70.0
+_nth_percentiles_: 70.0
 
-more_calories: 96.1038961038961
+_more_calories_: 96.1038961038961
 
-calorie_std: 19.35718533390827
+_calorie_std_: 19.35718533390827
 
 
 
