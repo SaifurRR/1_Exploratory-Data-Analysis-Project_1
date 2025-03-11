@@ -1,6 +1,6 @@
 # Exploratory Data Analysis (EDA)
 
-### 1. HuggingFace_PolynomialRoots_EDA
+### 1. HuggingFace PolynomialRoots EDA
 
   - Reason for dataset selection :
     I have selected the ''math_datasets' from the available datasets in Hugging Face. This dataset code generates mathematical question and answer pairs, from a range of 
