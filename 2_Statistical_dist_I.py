@@ -7,7 +7,7 @@ calories_param = {
 'average_calories' : np.mean(calorie_stats),
 'calorie_stats_sorted' : np.sort(calorie_stats),
 'median_calories' : np.median(calorie_stats),
-'nth_percentiles' : np.percentile(calorie_stats, 4),
+'nth_percentile' : next(p for p in range(101) if np.percentile(calorie_stats, p) > 60),
 'more_calories' : np.mean(calorie_stats>60) * 100,
 'calorie_std' : np.std(calorie_stats)
 }
