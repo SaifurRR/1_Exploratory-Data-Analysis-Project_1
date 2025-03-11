@@ -10,7 +10,24 @@
     
  -  Process to use the repository:
     A note-book is included in the repository. All the steps of EDA are mentioned as Markdown in the ipynb notebook. This ipynb Notebook was 
-    created in Jupyter Notebook and tested in Visual Studio Code in Python 3.9.7 version.     
+    created in Jupyter Notebook and tested in Visual Studio Code in Python 3.9.7 version.
+
+### 2. Statistical distribution
+
+average_calories: 106.88311688311688
+
+median_calories: 110.0
+
+nth_percentiles: 70.0
+
+more_calories: 96.1038961038961
+
+calorie_std: 19.35718533390827
+
+
+
+
+    
          
                   
         
