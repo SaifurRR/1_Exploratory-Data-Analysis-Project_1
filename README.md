@@ -22,7 +22,7 @@ _nth_percentiles_: 70.0
 
 _more_calories_: 96.1038961038961
 
-_calorie_std_: 19.35718533390827
+_calories_std_: 19.35718533390827
 
 
 
